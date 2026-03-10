@@ -15,7 +15,6 @@
 </div>
 
 <br>
-<br>
 
 <h3 align="left">Technologies and Languages</h3>
 <div align="left">
