@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   
   <h1>🕹️Wesley Silva</h1>
   
@@ -16,8 +16,8 @@
 
 <br>
 
-<h3 align="left">Technologies and Languages</h3>
-<div align="left">
+<h3 align="center">Technologies and Languages</h3>
+<div align="center">
   
   <a href="https://godotengine.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" 
