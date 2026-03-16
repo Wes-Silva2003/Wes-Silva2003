@@ -61,7 +61,7 @@
     <tr>
       <td align="center"><a href="https://wel-2003.itch.io/crimson-ronin" target="_blank">Play it on itch.io!</a></td>
       <td align="center"><a href="https://wel-2003.itch.io/knight-game-pixel-2d" target="_blank">Play it on itch.io!</a></td>
-      <td align="center"><a href="https://github.com/Wes-Silva2003/SimpStock" target="_blank">Visit Website</a></td>
+      <td align="center"><a href="https://github.com/Wes-Silva2003/SimpStock" target="_blank">View Repository</a></td>
       <td align="center"><a href="https://github.com/Wes-Silva2003/Compilador_Cirius" target="_blank">View Repository</a></td>
     </tr>
   </table>
