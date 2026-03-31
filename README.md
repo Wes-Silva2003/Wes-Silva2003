@@ -7,7 +7,6 @@
   </div>
   </div>
 <br>
-<hr>
 <h3 align="center">Technologies and Languages</h3>
 <div align="center">
   <a href="https://godotengine.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" title="Godot Engine" width="30" height="30" style="margin: 10px;"/></a>
@@ -20,11 +19,6 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="30" height="30" style="margin: 10px;"/></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="30" height="30" style="margin: 10px;"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" width="30" height="30" style="margin: 10px;"/></a>
-</div>
-<br>
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <a href="https://github.com/Wes-Silva2003"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wes-Silva2003&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 <br>
 <hr>
