@@ -83,7 +83,7 @@
         <br><br>
        <code>JavaScript</code> <code>HTML/CSS</code>
         <br><br>
-        <a href="https://well-2003.github.io/SimpStock_2.0/">🌐 Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Well-2003/SimpStock_2.0">📂 View Repository</a>
+        <a href="https://simpstock.pythonanywhere.com/">🌐 Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Well-2003/SimpStock_2.0">📂 View Repository</a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Well-2003/Compilador_Cirius"><img src="https://img.icons8.com/?size=512&id=13441&format=png&color=000000" width="140" alt="Compiler Cirius"></a>
