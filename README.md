@@ -74,7 +74,7 @@
   <table border="0">
     <tr valign="top">
       <td align="center" width="50%">
-        <a href="https://github.com/Well-2003/SimpStock_2.0"><img src="https://img.icons8.com/?size=512&id=a04gr8MLo013&format=png&color=000000" width="140" alt="SimpStock"></a>
+        <a href="https://simpstock.pythonanywhere.com/"><img src="https://img.icons8.com/?size=512&id=a04gr8MLo013&format=png&color=000000" width="140" alt="SimpStock"></a>
         <br><br>
         <b>SimpStock 2.0</b><br>
         <i>Web Dev / Backend</i>
