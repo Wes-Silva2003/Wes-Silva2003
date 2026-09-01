@@ -109,7 +109,7 @@
   <p>Have a project in mind or want to talk about games and programming? Reach out!</p>
   <a href="https://www.linkedin.com/in/wesley-silva2003"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn" height="40" width="40"/></a>
   <a href="https://wel-2003.itch.io/"><img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" alt="Itch.io" title="Itch.io" height="40" width="40"/></a>
-  <a href="https://well.astralchains.com/"><img src="https://img.icons8.com/ios/50/web.png" alt="Portfolio" title="Portfolio" height="40" width="40"/></a>
+  <a href="https://well.astralchains.com/"><img width="40" height="40" src="https://img.icons8.com/color/48/internet--v1.png" alt="internet--v1"/></a>
   <a href="mailto:silva.wes2003@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" title="Send E-mail" height="40" width="40"/></a>
 </div>
 <br>
