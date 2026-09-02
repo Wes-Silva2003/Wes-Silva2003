@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🕹️ Wesley Silva</h1>
-  <p><b>Game Developer</b> / <b>Web</b></p>
+  <h1>👾​​​Wesley Silva​​</h1>
+  <p><b>Game & Web developer</b></p>
   <p><i>2D and 3D game development in Godot and web system development.</i></p>
   <br>
 </div>
